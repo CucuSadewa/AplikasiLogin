@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "635513108653",
+    "firebase_url": "https://aplikasilogin-e0eaa.firebaseio.com",
+    "project_id": "aplikasilogin-e0eaa",
+    "storage_bucket": "aplikasilogin-e0eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635513108653:android:984d9ec0bab09650",
+        "android_client_info": {
+          "package_name": "com.example.user.aplikasilogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635513108653-vvq6tkf0f5sq975i7vthiqab03dmqiqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKovG0leAynXOX23FsSMAgrJc3sc-essM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
